@@ -10,6 +10,7 @@
 
 
 # 页面效果视频（推荐先看视频）：
+视频中内容有点卡，是因为拍摄的效果。
 [https://www.bilibili.com/video/BV1eW4y1V7c1](https://www.bilibili.com/video/BV1Jug3zGESc?t=33.0)
 
 
